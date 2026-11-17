@@ -1,0 +1,7 @@
+version: 1
+component:
+  name: TechDocs Fallback Test
+  owner: sec_pe_team_roses
+  description: Scratch repo used to verify the TechDocs fallback-homepage warning banner live.
+  repositories:
+    - name: hyacinth-bruno/techdocs-fallback-test
